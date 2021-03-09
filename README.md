@@ -1,4 +1,4 @@
-# #ILoveEpiserver :heart_eyes: - By JONDJONES.COM 
+# ILoveProductivity :heart_eyes: - By JONDJONES.COM 
 
 \#ILoveProductivity is an on-going store for all things productivity related that I create.  This repo contains mind-maps, links and recommendations that will help allow you to become more productive.
 
